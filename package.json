@@ -4,6 +4,7 @@
   "main": "app.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development node --watch app",
+    "start": "node app.js",
     "prod": "cross-env NODE_ENV=production prod_secret=qwerty12345 node app"
   },
   "keywords": [],
