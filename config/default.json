@@ -1,0 +1,16 @@
+{
+  "port": 3002,
+  "dbUri": "mongodb://localhost:27017/mongo_express_test",
+  "tokenKey": "MyVeryVerySecretKey",
+  "tokenTime": 86400,
+  "access_key": "UserAccessTokenSecretKey",
+  "refresh_key": "UserRefreshTokenSecretKey",
+  "access_time": "100s",
+  "refresh_time": "1h",
+  "refresh_cookie_time":1296000000,
+  "smtp_password":"syoqxtkuqsgzlidi",
+  "smtp_host":"smtp.gmail.com",
+  "smtp_port":587,
+  "smtp_user":"aar010407@gmail.com",
+  "api_url":"http://localhost:3002"
+}

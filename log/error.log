@@ -1,0 +1,31 @@
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T05:32:38.141Z"}
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T05:36:28.148Z"}
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T05:36:31.104Z"}
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T05:36:38.645Z"}
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T05:36:50.094Z"}
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T05:36:57.253Z"}
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T06:09:33.721Z"}
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T06:09:35.289Z"}
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T06:09:46.008Z"}
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T06:10:09.645Z"}
+{"label":"Lug'atim","level":"error","message":"ERROR ma'lumotlari","timestamp":"2025-03-18T06:10:33.163Z"}
+{"_original":{"confirm_password":"A5540445","email":"abrorbekrr11@gmail.com","first_name":"Karimjon","last_name":"Developer2","password":"A55404455","phone":"90-433-21-36","role":"user","username":"dev2"},"details":[{"context":{"key":"confirm_password","label":"confirm_password","valids":[{"adjust":null,"ancestor":1,"depth":1,"display":"ref:password","in":false,"iterables":null,"key":"password","map":null,"path":["password"],"root":"password","separator":".","type":"value"}],"value":"A5540445"},"message":"\"confirm_password\" must be [ref:password]","path":["confirm_password"],"type":"any.only"}],"label":"Lug'atim","level":"error","timestamp":"2025-03-19T21:03:02.436Z"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: lugatim.users index: username_1 dup key: { username: \"dev3\" }","index":0,"keyPattern":{"username":1},"keyValue":{"username":"dev3"}},"index":0,"keyPattern":{"username":1},"keyValue":{"username":"dev3"},"label":"Lug'atim","level":"error","timestamp":"2025-03-19T22:50:36.628Z"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: lugatim.users index: username_1 dup key: { username: \"dev3\" }","index":0,"keyPattern":{"username":1},"keyValue":{"username":"dev3"}},"index":0,"keyPattern":{"username":1},"keyValue":{"username":"dev3"},"label":"Lug'atim","level":"error","timestamp":"2025-03-19T22:52:40.193Z"}
+{"expiredAt":"2025-03-20T05:37:48.000Z","label":"Lug'atim","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2025-03-20T05:38:54.163Z"}
+{"label":"Lug'atim","level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2025-03-20T05:38:54.222Z"}
+{"expiredAt":"2025-03-20T05:46:12.000Z","label":"Lug'atim","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2025-03-20T05:47:21.966Z"}
+{"label":"Lug'atim","level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2025-03-20T05:47:21.996Z"}
+{"expiredAt":"2025-03-20T06:10:06.000Z","label":"Lug'atim","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2025-03-20T06:11:19.585Z"}
+{"label":"Lug'atim","level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2025-03-20T06:11:19.598Z"}
+{"expiredAt":"2025-03-20T06:10:06.000Z","label":"Lug'atim","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2025-03-20T06:11:28.269Z"}
+{"label":"Lug'atim","level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2025-03-20T06:11:28.283Z"}
+{"label":"Lug'atim","level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-03-20T06:12:29.717Z"}
+{"label":"Lug'atim","level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-03-20T06:12:31.299Z"}
+{"label":"Lug'atim","level":"error","message":"invalid signature","name":"JsonWebTokenError","timestamp":"2025-03-20T06:18:43.223Z"}
+{"expiredAt":"2025-03-20T06:17:57.000Z","label":"Lug'atim","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2025-03-20T06:20:47.627Z"}
+{"label":"Lug'atim","level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2025-03-20T06:20:47.650Z"}
+{"expiredAt":"2025-03-20T06:17:57.000Z","label":"Lug'atim","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2025-03-20T06:20:49.921Z"}
+{"label":"Lug'atim","level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2025-03-20T06:20:49.937Z"}
+{"expiredAt":"2025-03-20T06:21:24.000Z","label":"Lug'atim","level":"error","message":"jwt expired","name":"TokenExpiredError","timestamp":"2025-03-20T06:21:31.929Z"}
+{"label":"Lug'atim","level":"error","message":"jwt malformed","name":"JsonWebTokenError","timestamp":"2025-03-20T06:21:31.943Z"}
