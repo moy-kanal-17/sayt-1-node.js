@@ -16,8 +16,8 @@ const userSelfGuard = require("../middleware/guards/user.self.guard");
 
 const router = require("express").Router();
 
-router.post("/", addNewUser);
-router.get("/",  getAllUsers);//userAdminGuard,userGuard,
+router.post("/add", addNewUser);
+router.get("/all",  getAllUsers);//userAdminGuard,userGuard,
 router.get("/activate/:link", activateUser);
 router.get("/:id",  getUserById);//userGuard, userSelfGuard,
 router.delete("/:id", deleteUserById);

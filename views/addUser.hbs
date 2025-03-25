@@ -1,0 +1,41 @@
+<h3>ADD User</h3>
+
+<form action="/api/users/add" method="POST">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required>
+
+    <label for="first_name">First Name:</label>
+    <input type="text" id="first_name" name="first_name" required>
+
+    <label for="last_name">Last Name:</label>
+    <input type="text" id="last_name" name="last_name" required>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required>
+
+    <label for="confirm_password">Confirm Password:</label>
+    <input type="password" id="confirm_password" name="confirm_password" required>
+
+    <label for="role">Role:</label>
+    <select id="role" name="role" required>
+        <option value="admin">Admin</option>
+        <option value="user">User</option>
+        <option value="moderator">Moderator</option>
+    </select>
+
+    <label for="is_active">Active:</label>
+    <input type="checkbox" id="is_active" name="is_active" value="true">
+
+    <label for="phone">Phone:</label>
+    <input type="tel" id="phone" name="phone" required>
+
+    <button type="submit">Add User</button>
+</form>
+
+<script src="./js/script.js"></script>
+<script>
+    addUser();
+</script>

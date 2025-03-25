@@ -38,4 +38,13 @@ router.get("/login", (req, res) => {
   });
 });
 
+
+router.get("/addUser", (req, res) => {
+  res.render(createViewPage("addUser"), {
+    title: "Add user page",
+    loginPage: true,
+  });
+});
+
+
 module.exports =router
